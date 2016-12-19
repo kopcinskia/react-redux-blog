@@ -5,7 +5,8 @@
 * Webpack
 * ES6 + Babel
 * React + ReactRouter
-* Redux
+* Redux + Redux Promise
+* Axios
 * Lodash
 * Bootstrap4
 * BrowserSync + BrowserSync Webpack Plugin
