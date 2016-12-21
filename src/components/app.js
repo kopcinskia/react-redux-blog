@@ -4,7 +4,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        Blog
+        <h1>Blog</h1>
         { this.props.children }
       </div>
     );

@@ -4,8 +4,11 @@
 ###Using:###
 * Webpack
 * ES6 + Babel
-* React + ReactRouter
-* Redux + Redux Promise
+* React
+* React Router
+* Redux
+* Redux Promise
+* Redux Form
 * Axios
 * Lodash
 * Bootstrap4
